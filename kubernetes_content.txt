@@ -1,0 +1,17 @@
+Kubernetes:
+ Introduction
+ Containers Overview
+ Container Orchestration
+ Kubernetes Architecture
+ setup kubernetes
+ kubeadm method
+ Kops method
+ What is POD
+ Introduction to YAML
+ Replication Controllers and ReplicaSets
+ Name spaces
+ Deployments
+ Deployments - Update and Rollback
+ Networking in Kubernetes
+ Services - NodePort
+ Services - ClusterIP
